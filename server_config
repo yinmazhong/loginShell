@@ -1,0 +1,2 @@
+m1 ssh -i xxx.pem ip/hostname
+m2 ssh -i xxx.pem ip/hostname
